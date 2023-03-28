@@ -1,5 +1,5 @@
-YES: "Да"
-NO: "Нет"
+YES_BAN: "Да"
+NO_BAN: "Нет"
 
 OPENED: "Открыто"
 CLOSED: "Закрыто"
