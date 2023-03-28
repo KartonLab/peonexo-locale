@@ -74,7 +74,7 @@ COMMAND_CONVIP_DECIMAL: "Десятеричный IP"
 
 COMMAND_CURRENCY_DESCRIPTION: "Курс валют относительно рубля (ЦБР)"
 COMMAND_CURRENCY_USD: "Доллар США"
-COMMAND_CURRENCY_EURO: "Евро"
+COMMAND_CURRENCY_EUR: "Евро"
 COMMAND_CURRENCY_UAH: "Украинская гривна"
 COMMAND_CURRENCY_BYN: "Белорусский рубль"
 COMMAND_CURRENCY_MDL: "Молдавский лей"
