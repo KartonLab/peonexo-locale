@@ -1,0 +1,172 @@
+YES: "Да"
+NO: "Нет"
+
+OPENED: "Открыто"
+CLOSED: "Закрыто"
+
+REASON: "Причина"
+ID: "ID"
+
+DAYS: "дн."
+HOURS: "ч."
+MINUTES: "мин."
+SECONDS: "сек."
+
+UUID: "UUID"
+REGISTRATION: "Регистрация"
+
+MESSAGE: "Сообщение"
+USER: "Пользователь"
+
+ADVERTISEMENT: "Реклама"
+
+COUNTRY_RUSSIA: "Россия"
+
+ERROR_SPECIFY_IP: "Укажите IP!"
+ERROR_SPECIFY_IP_OR_DOMAIN: "Укажите IP или домен!"
+ERROR_SPECIFY_IP_PORT: "Укажите IP и порт!"
+ERROR_SPECIFY_COMMAND: "Укажите команду!"
+ERROR_SPECIFY_LENGTH: "Укажите длину!"
+ERROR_SPECIFY_TEXT: "Укажите текст!"
+ERROR_SPECIFY_SERVER_IP: "Укажите IP сервера!"
+ERROR_SPECIFY_PHONE: "Укажите номер телефона!"
+ERROR_SPECIFY_TEXT: "Укажите текст!"
+ERROR_SPECIFY_PLAYER_NAME: "Укажите никнейм игрока!"
+
+ERROR_INCORRECT_IP: "Указан некорректный IP, перепроверьте его"
+ERROR_INVALID_INT: "Указано неверное число!"
+ERROR_INVALID_NUMBER: "Указан неверный номер, перепроверьте его"
+ERROR_INVALID_PORT: "Указан некорректный порт, перепроверьте его"
+ERROR_INVALID_PORT_LENGTH: "Портов больше 65535 не существует!"
+ERROR_NO_IP: "В данном сообщении нет IP-адреса/домена"
+ERROR_GET_INFO: "Не удалось получить информацию"
+ERROR_REPLY_USER_MESSAGE: "Перешлите сообщение пользователя!"
+ERROR_SPECIFY_REASON: "Укажите причину!"
+ERROR_MOJANG_UNAVAILABLE: "Не удалось получить информацию (нет лицензии/сервера Mojang недоступны)"
+
+ERROR_OCCURRED: "Произошла ошибка"
+ERROR_OCCURED_WHEN_EXECUTING: "при выполнении команды"
+
+NO_ENOUGH_RIGHTS: "Недостаточно прав"
+
+REQUEST_RESULT: "Результат запроса"
+REQUEST_CHECK_RESULT: "Результат проверки"
+REQUEST_CHECK_PLAYER: "Информация об игроке"
+REQUEST_CHECK_PHONE: "Информация об номере"
+
+IP_INFO: "IP-информация"
+
+COMMAND_ALIASES_DESCRIPTION: "Алиасы команд"
+
+COMMAND_BOT_DESCRIPTION: "Информация бота"
+COMMAND_BOT_DESCRIPTION_MESSAGE: "Информация"
+COMMAND_BOT_UPTIME: "Аптайм"
+COMMAND_BOT_RAM_TOTAL: "Всего ОЗУ"
+COMMAND_BOT_RAM_MAX: "Макс. ОЗУ"
+COMMAND_BOT_RAM_USED: "Используется ОЗУ"
+COMMAND_BOT_RAM_MEASURE: "мб."
+COMMAND_BOT_CORE: "Ядро"
+COMMAND_BOT_MODULES: "модули"
+
+COMMAND_CONVIP_DESCRIPTION: "Конвертировать IPv4 в десятеричный"
+COMMAND_CONVIP_DECIMAL: "Десятеричный IP"
+
+COMMAND_CURRENCY_DESCRIPTION: "Курс валют относительно рубля (ЦБР)"
+COMMAND_CURRENCY_USD: "Доллар США"
+COMMAND_CURRENCY_EURO: "Евро"
+COMMAND_CURRENCY_UAH: "Украинская гривна"
+COMMAND_CURRENCY_BYN: "Белорусский рубль"
+COMMAND_CURRENCY_MDL: "Молдавский лей"
+COMMAND_CURRENCY_PLN: "Польский злотый"
+COMMAND_CURRENCY_GBP: "Фунт стерлингов"
+COMMAND_CURRENCY_TRY: "Турецкая лира"
+COMMAND_CURRENCY_CHF: "Швейцарский франк"
+COMMAND_CURRENCY_AED: "Дирхам ОАЭ"
+
+COMMAND_DECTOIP_DESCRIPTION: "Десятичный IP в IPv4"
+
+COMMAND_EXEC_DESCRIPTION: "Выполнить Linux-команду"
+COMMAND_EXEC_RESULT: "Команда выполнена! Ответ:"
+COMMAND_EXEC_CENSORED: "[скрыто]"
+
+COMMAND_GENSTR_DESCRIPTION: "Сгенерировать пароль"
+COMMAND_GENSTR_INVALID_LENGTH: "Укажите правильную длину: 1-100!"
+
+COMMAND_HASH_DESCRIPTION: "Захешировать пароль/текст"
+
+COMMAND_HELP_DESCRIPTION: "Список команд бота"
+COMMAND_HELP_PREFIXES: "Префиксы для команд"
+COMMAND_HELP_COMMANDS: "Команды бота"
+COMMAND_HELP_ALIASES: "Алиасы"
+
+COMMAND_IPINFO_DESCRIPTION: "Информация об IP"
+COMMAND_IPINFO_LOCATION: "Локация"
+COMMAND_IPINFO_ORGANIZATION: "Организация"
+COMMAND_IPINFO_PROVIDER: "Провайдер"
+COMMAND_IPINFO_AS: "AS"
+COMMAND_IPINFO_ASNAME: "ASNAME"
+COMMAND_IPINFO_ZIP: "ZIP"
+COMMAND_IPINFO_IP: "IP"
+COMMAND_IPINFO_PTR: "PTR"
+
+COMMAND_KICK_DESCRIPTION: "Исключение пользователя с беседы"
+COMMAND_KICK_ERROR: "Пользователь является администратором, его нет в беседе, либо у бота нет прав"
+COMMAND_KICK_KICKED: "Кикнут"
+
+COMMAND_MCPING_DESCRIPTION: "Информация о сервере Minecraft"
+COMMAND_MCPING_MOJANG_BAN_UNKNOWN: "Неизвестно"
+COMMAND_MCPING_PING: "Пинг"
+COMMAND_MCPING_MS: "мс."
+COMMAND_MCPING_CORE: "Ядро"
+COMMAND_MCPING_PROTOCOL: "Протокол"
+COMMAND_MCPING_ONLINE: "Онлайн"
+COMMAND_MCPING_MOJANG_BAN: "Бан Mojang"
+COMMAND_MCPING_MOTD: "MOTD"
+
+COMMAND_MCPLAYER_DESCRIPTION: "Информация об игроке Minecraft"
+COMMAND_MCPLAYER_DATEREG_UNKNOWN: "<неизвестно>"
+COMMAND_MCPLAYER_VIME_INFO: "Vime-информация"
+
+COMMAND_PHONE_DESCRIPTION: "Информация о номере телефона"
+COMMAND_PHONE_UNAVAILABLE: "Данная функция недоступна, попробуйте через 1 час"
+COMMAND_PHONE_LOCATION: "Локация"
+COMMAND_PHONE_PROVIDER: "Оператор"
+COMMAND_PHONE_TYPE: "Тип"
+
+COMMAND_PORT_DESCRIPTION: "Проверка порта по протоколу TCP"
+
+COMMAND_REVTEXT_DESCRIPTION: "Развернуть текст задом наперед"
+
+COMMAND_SAY_DESCRIPTION: "Написать сообщение от имени бота"
+
+COMMAND_TL_DESCRIPTION: "Информация о рекламируемых серверах в TLauncher"
+COMMAND_TL_TEXT: "Рекламируемые сервера TLauncher"
+
+COMMAND_VIME_DESCRIPTION: "Информация об игроке VimeWorld"
+COMMAND_VIME_NOT_REGISTRED: "Не удалось получить информацию (игрок не зарегистрирован)"
+COMMAND_VIME_MCPLAYER_INFO: "Minecraft-информация"
+COMMAND_VIME_ID: "ID"
+COMMAND_VIME_RANK: "Ранг"
+COMMAND_VIME_LEVEL: "Уровень"
+COMMAND_VIME_LEVEL_MEASURE: "ур."
+COMMAND_VIME_PLAYED: "Наиграно"
+COMMAND_VIME_GUILD: "Гильдия"
+COMMAND_VIME_RANK_PLAYER: "Игрок"
+COMMAND_VIME_RANK_VIP: "VIP"
+COMMAND_VIME_RANK_PREMIUM: "Premium"
+COMMAND_VIME_RANK_HOLY: "Holy"
+COMMAND_VIME_RANK_IMMORTAL: "Immortal"
+COMMAND_VIME_RANK_BUILDER: "Билдер"
+COMMAND_VIME_RANK_SRBUILDER: "Проверенный билдер"
+COMMAND_VIME_RANK_MAPLEAD: "Главный билдер"
+COMMAND_VIME_RANK_YOUTUBE: "YouTube"
+COMMAND_VIME_RANK_DEV: "Разработчик"
+COMMAND_VIME_RANK_ORGANIZER: "Организатор"
+COMMAND_VIME_RANK_HELPER: "Хелпер"
+COMMAND_VIME_RANK_MODER: "Модератор"
+COMMAND_VIME_RANK_WARDEN: "Проверенный модератор"
+COMMAND_VIME_RANK_CHIEF: "Главный модератор"
+COMMAND_VIME_RANK_ADMIN: "Главный админ"
+
+COMMAND_VKID_DESCRIPTION: "Получение ID страницы ВКонтакте"
+COMMAND_VKID_ID: "ID пользователя"
