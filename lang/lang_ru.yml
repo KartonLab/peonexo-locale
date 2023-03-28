@@ -89,6 +89,7 @@ COMMAND_DECTOIP_DESCRIPTION: "Десятичный IP в IPv4"
 COMMAND_EXEC_DESCRIPTION: "Выполнить Linux-команду"
 COMMAND_EXEC_RESULT: "Команда выполнена! Ответ:"
 COMMAND_EXEC_CENSORED: "[скрыто]"
+COMMAND_EXEC_RESTARTING: "Перезагрузка бота..."
 
 COMMAND_GENSTR_DESCRIPTION: "Сгенерировать пароль"
 COMMAND_GENSTR_INVALID_LENGTH: "Укажите правильную длину: 1-100!"
