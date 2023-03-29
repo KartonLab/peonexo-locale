@@ -1,0 +1,177 @@
+YES_BAN: "Yes"
+NO_BAN: "No"
+
+OPENED: "Opened"
+CLOSED: "Closed"
+
+REASON: "Reason"
+ID: "ID"
+
+DAYS: "d."
+HOURS: "h."
+MINUTES: "min."
+SECONDS: "sec."
+
+UUID: "UUID"
+REGISTRATION: "Registration"
+
+MESSAGE: "Message"
+USER: "User"
+
+ADVERTISEMENT: "Advertisement"
+
+COUNTRY_RUSSIA: "Russia"
+
+ERROR_SPECIFY_IP: "Specify IP!"
+ERROR_SPECIFY_IP_OR_DOMAIN: "Specify IP or domain!"
+ERROR_SPECIFY_IP_PORT: "Specify IP and port!"
+ERROR_SPECIFY_COMMAND: "Specify command!"
+ERROR_SPECIFY_LENGTH: "Specify length!"
+ERROR_SPECIFY_TEXT: "Specify text!"
+ERROR_SPECIFY_SERVER_IP: "Specify server IP!"
+ERROR_SPECIFY_PHONE: "Specify phone number!"
+ERROR_SPECIFY_PLAYER_NAME: "Specify player nickname!"
+
+ERROR_INCORRECT_IP: "Incorrect IP specified, please check it"
+ERROR_INVALID_INT: "Invalid number specified!"
+ERROR_INVALID_NUMBER: "Invalid number specified, please check it"
+ERROR_INVALID_PORT: "Incorrect port specified, please check it"
+ERROR_INVALID_PORT_LENGTH: "Ports above 65535 do not exist!"
+ERROR_NO_IP: "There is no IP/domain in this message"
+ERROR_GET_INFO: "Failed to get information"
+ERROR_REPLY_USER_MESSAGE: "Forward the user's message!"
+ERROR_SPECIFY_REASON: "Specify the reason!"
+ERROR_MOJANG_UNAVAILABLE: "Failed to get information (no license/server Mojang unavailable)"
+
+ERROR_OCCURRED: "An error occurred"
+ERROR_OCCURED_WHEN_EXECUTING: "when executing the command"
+
+NO_ENOUGH_RIGHTS: "Not enough rights"
+
+REQUEST_RESULT: "Request result"
+REQUEST_CHECK_RESULT: "Check result"
+REQUEST_CHECK_PLAYER: "Player information"
+REQUEST_CHECK_PHONE: "Phone information"
+
+IP_INFO: "IP information"
+
+COMMAND_ALIASES_DESCRIPTION: "Command aliases"
+
+COMMAND_BOT_DESCRIPTION: "Bot information"
+COMMAND_BOT_DESCRIPTION_MESSAGE: "Information"
+COMMAND_BOT_UPTIME: "Uptime"
+COMMAND_BOT_RAM_TOTAL: "Total RAM"
+COMMAND_BOT_RAM_MAX: "Max. RAM"
+COMMAND_BOT_RAM_USED: "RAM used"
+COMMAND_BOT_RESTART: "Restart"
+COMMAND_BOT_RAM_MEASURE: "mb."
+COMMAND_BOT_CORE: "Core"
+COMMAND_BOT_MODULES: "modules"
+
+COMMAND_CONVIP_DESCRIPTION: "Convert IPv4 to decimal"
+COMMAND_CONVIP_DECIMAL: "Decimal IP"
+
+COMMAND_CURRENCY_DESCRIPTION: "Currency exchange rates relative to ruble (CBR)"
+COMMAND_CURRENCY_USD: "US Dollar"
+COMMAND_CURRENCY_EUR: "Euro"
+COMMAND_CURRENCY_UAH: "Ukrainian Hryvnia"
+COMMAND_CURRENCY_BYN: "Belarusian Ruble"
+COMMAND_CURRENCY_MDL: "Moldovan Leu"
+COMMAND_CURRENCY_PLN: "Polish Zloty"
+COMMAND_CURRENCY_GBP: "British Pound Sterling"
+COMMAND_CURRENCY_TRY: "Turkish Lira"
+COMMAND_CURRENCY_CHF: "Swiss Franc"
+COMMAND_CURRENCY_AED: "United Arab Emirates Dirham"
+
+COMMAND_DECTOIP_DESCRIPTION: "Convert decimal IP to IPv4"
+
+COMMAND_EXEC_DESCRIPTION: "Execute Linux command"
+COMMAND_EXEC_RESULT: "Command executed! Response:"
+COMMAND_EXEC_CENSORED: "[censored]"
+COMMAND_EXEC_RESTARTING: "Bot is restarting..."
+
+COMMAND_GENSTR_DESCRIPTION: "Generate password"
+COMMAND_GENSTR_INVALID_LENGTH: "Specify the correct length: 1-100!"
+
+COMMAND_HASH_DESCRIPTION: "Hash password/text"
+
+COMMAND_HELP_DESCRIPTION: "List of bot commands"
+COMMAND_HELP_PREFIXES: "Command prefixes"
+COMMAND_HELP_COMMANDS: "Bot commands"
+COMMAND_HELP_ALIASES: "Aliases"
+
+COMMAND_IPINFO_DESCRIPTION: "IP information"
+COMMAND_IPINFO_LOCATION: "Location"
+COMMAND_IPINFO_ORGANIZATION: "Organization"
+COMMAND_IPINFO_PROVIDER: "Provider"
+COMMAND_IPINFO_AS: "AS"
+COMMAND_IPINFO_ASNAME: "ASNAME"
+COMMAND_IPINFO_ZIP: "ZIP"
+COMMAND_IPINFO_IP: "IP"
+COMMAND_IPINFO_PTR: "PTR"
+
+COMMAND_KICK_DESCRIPTION: "Kick a user from the chat"
+COMMAND_KICK_ERROR: "User is an administrator, is not in the chat, or the bot does not have permission"
+COMMAND_KICK_KICKED: "Kicked"
+
+COMMAND_MCPING_DESCRIPTION: "Minecraft server information"
+COMMAND_MCPING_MOJANG_BAN_UNKNOWN: "Unknown"
+COMMAND_MCPING_PING: "Ping"
+COMMAND_MCPING_MS: "ms."
+COMMAND_MCPING_CORE: "Core"
+COMMAND_MCPING_PROTOCOL: "Protocol"
+COMMAND_MCPING_ONLINE: "Online"
+COMMAND_MCPING_MOJANG_BAN: "Mojang Ban"
+COMMAND_MCPING_MOTD: "MOTD"
+
+COMMAND_MCPLAYER_DESCRIPTION: "Minecraft player information"
+COMMAND_MCPLAYER_DATEREG_UNKNOWN: "<unknown>"
+COMMAND_MCPLAYER_VIME_INFO: "Vime information"
+
+COMMAND_PHONE_DESCRIPTION: "Phone number information"
+COMMAND_PHONE_UNAVAILABLE: "This function is unavailable, try again in 1 hour"
+COMMAND_PHONE_LOCATION: "Location"
+COMMAND_PHONE_PROVIDER: "Operator"
+COMMAND_PHONE_TYPE: "Type"
+
+COMMAND_PORT_DESCRIPTION: "Check port by TCP protocol"
+
+COMMAND_REVTEXT_DESCRIPTION: "Reverse text"
+
+COMMAND_QR_DESCRIPTION: "Create a QR code with any text"
+COMMAND_QR_TEXT: "Text in QR code"
+COMMAND_QR_DISABLED_ON_CHAT: "This command is disabled in this chat, as it is created on behalf of the community"
+
+COMMAND_SAY_DESCRIPTION: "Write a message on behalf of the bot"
+
+COMMAND_TL_DESCRIPTION: "Information about advertised servers in TLauncher"
+COMMAND_TL_TEXT: "TLauncher Advertised Servers"
+
+COMMAND_VIME_DESCRIPTION: "VimeWorld player information"
+COMMAND_VIME_NOT_REGISTRED: "Failed to get information (player is not registered)"
+COMMAND_VIME_MCPLAYER_INFO: "Minecraft information"
+COMMAND_VIME_ID: "ID"
+COMMAND_VIME_RANK: "Rank"
+COMMAND_VIME_LEVEL: "Level"
+COMMAND_VIME_LEVEL_MEASURE: "lvl."
+COMMAND_VIME_PLAYED: "Played"
+COMMAND_VIME_GUILD: "Guild"
+COMMAND_VIME_RANK_PLAYER: "Player"
+COMMAND_VIME_RANK_VIP: "VIP"
+COMMAND_VIME_RANK_PREMIUM: "Premium"
+COMMAND_VIME_RANK_HOLY: "Holy"
+COMMAND_VIME_RANK_IMMORTAL: "Immortal"
+COMMAND_VIME_RANK_BUILDER: "Builder"
+COMMAND_VIME_RANK_SRBUILDER: "Verified Builder"
+COMMAND_VIME_RANK_MAPLEAD: "Head Builder"
+COMMAND_VIME_RANK_YOUTUBE: "YouTube"
+COMMAND_VIME_RANK_DEV: "Developer"
+COMMAND_VIME_RANK_ORGANIZER: "Organizer"
+COMMAND_VIME_RANK_HELPER: "Helper"
+COMMAND_VIME_RANK_MODER: "Moderator"
+COMMAND_VIME_RANK_WARDEN: "Verified Moderator"
+COMMAND_VIME_RANK_CHIEF: "Head Moderator"
+COMMAND_VIME_RANK_ADMIN: "Head Admin"
+
+COMMAND_VKID_DESCRIPTION: "Getting VKontakte page ID"
+COMMAND_VKID_ID: "User ID"
