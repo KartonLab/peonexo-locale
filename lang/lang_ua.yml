@@ -1,0 +1,178 @@
+YES_BAN: "Так"
+NO_BAN: "Ні"
+
+OPENED: "Відкрито"
+CLOSED: "Закрито"
+
+REASON: "Причина"
+ID: "ID"
+
+DAYS: "дн."
+HOURS: "год."
+MINUTES: "хв."
+SECONDS: "сек."
+
+UUID: "UUID"
+REGISTRATION: "Реєстрація"
+
+MESSAGE: "Повідомлення"
+USER: "Користувач"
+
+ADVERTISEMENT: "Реклама"
+
+COUNTRY_RUSSIA: "Russia"
+
+ERROR_SPECIFY_IP: "Вкажіть IP!"
+ERROR_SPECIFY_IP_OR_DOMAIN: "Вкажіть IP або домен!"
+ERROR_SPECIFY_IP_PORT: "Вкажіть IP та порт!"
+ERROR_SPECIFY_COMMAND: "Вкажіть команду!"
+ERROR_SPECIFY_LENGTH: "Вкажіть довжину!"
+ERROR_SPECIFY_TEXT: "Вкажіть текст!"
+ERROR_SPECIFY_SERVER_IP: "Вкажіть IP сервера!"
+ERROR_SPECIFY_PHONE: "Вкажіть номер телефону!"
+ERROR_SPECIFY_TEXT: "Вкажіть текст!"
+ERROR_SPECIFY_PLAYER_NAME: "Вкажіть нікнейм гравця!"
+
+ERROR_INCORRECT_IP: "Вказано некоректний IP, перевірте його"
+ERROR_INVALID_INT: "Вказано невірне число!"
+ERROR_INVALID_NUMBER: "Вказано невірний номер, перевірте його"
+ERROR_INVALID_PORT: "Вказаний некоректний порт, перевірте його"
+ERROR_INVALID_PORT_LENGTH: "Портів більше 65535 не існує!"
+ERROR_NO_IP: "У даному повідомленні немає IP-адреси/домена"
+ERROR_GET_INFO: "Не вдалося отримати інформацію"
+ERROR_REPLY_USER_MESSAGE: "Перешліть повідомлення користувача!"
+ERROR_SPECIFY_REASON: "Вкажіть причину!"
+ERROR_MOJANG_UNAVAILABLE: "Не вдалося отримати інформацію (немає ліцензії/сервера Mojang недоступні)"
+
+ERROR_OCCURRED: "Сталася помилка"
+ERROR_OCCURED_WHEN_EXECUTING: "під час виконання команди"
+
+NO_ENOUGH_RIGHTS: "Недостатньо прав"
+
+REQUEST_RESULT: "Результат запиту"
+REQUEST_CHECK_RESULT: "Результат перевірки"
+REQUEST_CHECK_PLAYER: "Інформація про гравця"
+REQUEST_CHECK_PHONE: "Інформація про номер"
+
+IP_INFO: "Інформація про IP"
+
+COMMAND_ALIASES_DESCRIPTION: "Аліаси команд"
+
+COMMAND_BOT_DESCRIPTION: "Інформація про бота"
+COMMAND_BOT_DESCRIPTION_MESSAGE: "Інформація"
+COMMAND_BOT_UPTIME: "Час роботи"
+COMMAND_BOT_RAM_TOTAL: "Всього ОЗУ"
+COMMAND_BOT_RAM_MAX: "Макс. ОЗУ"
+COMMAND_BOT_RAM_USED: "Використовується ОЗУ"
+COMMAND_BOT_RESTART: "Перезапустити"
+COMMAND_BOT_RAM_MEASURE: "мб."
+COMMAND_BOT_CORE: "Ядро"
+COMMAND_BOT_MODULES: "модулі"
+
+COMMAND_CONVIP_DESCRIPTION: "Конвертувати IPv4 у десятковий формат"
+COMMAND_CONVIP_DECIMAL: "Десятковий IP"
+
+COMMAND_CURRENCY_DESCRIPTION: "Курс валют відносно рубля (ЦБР)"
+COMMAND_CURRENCY_USD: "Долар США"
+COMMAND_CURRENCY_EUR: "Євро"
+COMMAND_CURRENCY_UAH: "Українська гривня"
+COMMAND_CURRENCY_BYN: "Білоруський рубль"
+COMMAND_CURRENCY_MDL: "Молдавський лей"
+COMMAND_CURRENCY_PLN: "Польський злотий"
+COMMAND_CURRENCY_GBP: "Фунт стерлінгів"
+COMMAND_CURRENCY_TRY: "Турецька ліра"
+COMMAND_CURRENCY_CHF: "Швейцарський франк"
+COMMAND_CURRENCY_AED: "Дирхам ОАЕ"
+
+COMMAND_DECTOIP_DESCRIPTION: "Десятковий IP у IPv4"
+
+COMMAND_EXEC_DESCRIPTION: "Виконати Linux-команду"
+COMMAND_EXEC_RESULT: "Команда виконана! Відповідь:"
+COMMAND_EXEC_CENSORED: "[cкрито]"
+COMMAND_EXEC_RESTARTING: "Перезавантаження бота..."
+
+COMMAND_GENSTR_DESCRIPTION: "Згенерувати пароль"
+COMMAND_GENSTR_INVALID_LENGTH: "Вкажіть правильну довжину: 1-100!"
+
+COMMAND_HASH_DESCRIPTION: "Хешувати пароль/текст"
+
+COMMAND_HELP_DESCRIPTION: "Список команд бота"
+COMMAND_HELP_PREFIXES: "Префікси для команд"
+COMMAND_HELP_COMMANDS: "Команди бота"
+COMMAND_HELP_ALIASES: "Аліаси"
+
+COMMAND_IPINFO_DESCRIPTION: "Інформація про IP"
+COMMAND_IPINFO_LOCATION: "Локація"
+COMMAND_IPINFO_ORGANIZATION: "Організація"
+COMMAND_IPINFO_PROVIDER: "Провайдер"
+COMMAND_IPINFO_AS: "AS"
+COMMAND_IPINFO_ASNAME: "ASNAME"
+COMMAND_IPINFO_ZIP: "ZIP"
+COMMAND_IPINFO_IP: "IP"
+COMMAND_IPINFO_PTR: "PTR"
+
+COMMAND_KICK_DESCRIPTION: "Виключення користувача з групового чату"
+COMMAND_KICK_ERROR: "Користувач є адміністратором, його немає в чаті або у бота немає прав"
+COMMAND_KICK_KICKED: "Кікнуто"
+
+COMMAND_MCPING_DESCRIPTION: "Інформація про сервер Minecraft"
+COMMAND_MCPING_MOJANG_BAN_UNKNOWN: "Невідомо"
+COMMAND_MCPING_PING: "Пінг"
+COMMAND_MCPING_MS: "мс."
+COMMAND_MCPING_CORE: "Ядро"
+COMMAND_MCPING_PROTOCOL: "Протокол"
+COMMAND_MCPING_ONLINE: "Онлайн"
+COMMAND_MCPING_MOJANG_BAN: "Бан Mojang"
+COMMAND_MCPING_MOTD: "MOTD"
+
+COMMAND_MCPLAYER_DESCRIPTION: "Інформація про гравця Minecraft"
+COMMAND_MCPLAYER_DATEREG_UNKNOWN: "<невідомо>"
+COMMAND_MCPLAYER_VIME_INFO: "Vime-інформація"
+
+COMMAND_PHONE_DESCRIPTION: "Інформація про номер телефону"
+COMMAND_PHONE_UNAVAILABLE: "Ця функція недоступна, спробуйте через 1 годину"
+COMMAND_PHONE_LOCATION: "Локація"
+COMMAND_PHONE_PROVIDER: "Оператор"
+COMMAND_PHONE_TYPE: "Тип"
+
+COMMAND_PORT_DESCRIPTION: "Перевірка порту за протоколом TCP"
+
+COMMAND_REVTEXT_DESCRIPTION: "Розвернути текст догори ногами"
+
+COMMAND_QR_DESCRIPTION: "Створити QR-код з будь-яким текстом"
+COMMAND_QR_TEXT: "Текст у QR-коді"
+COMMAND_QR_DISABLED_ON_CHAT: "Ця команда вимкнена в цьому чаті, оскільки він створений від імені спільноти"
+
+COMMAND_SAY_DESCRIPTION: "Написати повідомлення від імені бота"
+
+COMMAND_TL_DESCRIPTION: "Інформація про рекламовані сервери в TLauncher"
+COMMAND_TL_TEXT: "Рекламовані сервери TLauncher"
+
+COMMAND_VIME_DESCRIPTION: "Інформація про гравця VimeWorld"
+COMMAND_VIME_NOT_REGISTRED: "Не вдалося отримати інформацію (гравець не зареєстрований)"
+COMMAND_VIME_MCPLAYER_INFO: "Minecraft-інформація"
+COMMAND_VIME_ID: "ID"
+COMMAND_VIME_RANK: "Ранг"
+COMMAND_VIME_LEVEL: "Рівень"
+COMMAND_VIME_LEVEL_MEASURE: "рів."
+COMMAND_VIME_PLAYED: "Награвано"
+COMMAND_VIME_GUILD: "Гільдія"
+COMMAND_VIME_RANK_PLAYER: "Гравець"
+COMMAND_VIME_RANK_VIP: "VIP"
+COMMAND_VIME_RANK_PREMIUM: "Premium"
+COMMAND_VIME_RANK_HOLY: "Holy"
+COMMAND_VIME_RANK_IMMORTAL: "Immortal"
+COMMAND_VIME_RANK_BUILDER: "Білдер"
+COMMAND_VIME_RANK_SRBUILDER: "Перевірений білдер"
+COMMAND_VIME_RANK_MAPLEAD: "Головний білдер"
+COMMAND_VIME_RANK_YOUTUBE: "YouTube"
+COMMAND_VIME_RANK_DEV: "Розробник"
+COMMAND_VIME_RANK_ORGANIZER: "Організатор"
+COMMAND_VIME_RANK_HELPER: "Хелпер"
+COMMAND_VIME_RANK_MODER: "Модератор"
+COMMAND_VIME_RANK_WARDEN: "Перевірений модератор"
+COMMAND_VIME_RANK_CHIEF: "Головний модератор"
+COMMAND_VIME_RANK_ADMIN: "Головний адмін"
+
+COMMAND_VKID_DESCRIPTION: "Отримання ID сторінки ВКонтакті"
+COMMAND_VKID_ID: "ID користувача"
