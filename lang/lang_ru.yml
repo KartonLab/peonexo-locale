@@ -139,6 +139,10 @@ COMMAND_PORT_DESCRIPTION: "Проверка порта по протоколу T
 
 COMMAND_REVTEXT_DESCRIPTION: "Развернуть текст задом наперед"
 
+COMMAND_QR_DESCRIPTION: "Создать QR-код с любым текстом"
+COMMAND_QR_TEXT: "Текст в QR-коде"
+COMMAND_QR_DISABLED_ON_CHAT: "Данная команда отключена в этом чате, так как он создан от имени сообщества"
+
 COMMAND_SAY_DESCRIPTION: "Написать сообщение от имени бота"
 
 COMMAND_TL_DESCRIPTION: "Информация о рекламируемых серверах в TLauncher"
