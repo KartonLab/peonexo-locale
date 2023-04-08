@@ -149,6 +149,7 @@ COMMAND_TL_TEXT: "TLauncher Advertised Servers"
 
 COMMAND_VIME_DESCRIPTION: "VimeWorld player information"
 COMMAND_VIME_NOT_REGISTRED: "Failed to get information (player is not registered)"
+COMMAND_VIME_API_DOWN: "Failed to get information (API unavailable)"
 COMMAND_VIME_MCPLAYER_INFO: "Minecraft information"
 COMMAND_VIME_ID: "ID"
 COMMAND_VIME_RANK: "Rank"
