@@ -11,7 +11,7 @@
 ### Рабочий вариант
 
 ![image](https://user-images.githubusercontent.com/102430482/230927474-2921d863-340a-4c51-b37b-e56f3b709f98.png)
-![image](https://user-images.githubusercontent.com/102430482/230927584-6f23f51f-0188-449c-ab97-f732849d6c30.png)
+![image](https://user-images.githubusercontent.com/102430482/230928038-0830ad5d-711a-4d8e-b950-3a56ced258da.png)
 
 ---
 
