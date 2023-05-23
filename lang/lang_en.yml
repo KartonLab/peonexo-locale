@@ -31,6 +31,8 @@ ERROR_SPECIFY_TEXT: "Specify text!"
 ERROR_SPECIFY_SERVER_IP: "Specify server IP!"
 ERROR_SPECIFY_PHONE: "Specify phone number!"
 ERROR_SPECIFY_PLAYER_NAME: "Specify player nickname!"
+ERROR_SPECIFY_URL: "Specify URL!"
+ERROR_URL_NOT_FOUND_SPECIFY_URL: "No URL found in the message, example: /short [URL]"
 
 ERROR_INCORRECT_IP: "Incorrect IP specified, please check it"
 ERROR_INVALID_INT: "Invalid number specified!"
@@ -143,6 +145,12 @@ COMMAND_QR_TEXT: "Text in QR code"
 COMMAND_QR_DISABLED_ON_CHAT: "This command is disabled in this chat, as it is created on behalf of the community"
 
 COMMAND_SAY_DESCRIPTION: "Write a message on behalf of the bot"
+
+COMMAND_SHORT_DESCRIPTION: "Short link by different services"
+COMMAND_SHORT_SELECT_SERVICE: "Select the service through which to shorten the link"
+COMMAND_SHORT_UNKNOWN_SERVICE: "Unknown service, available: clck/vkcc"
+COMMAND_SHORT_ERROR: "Failed to shorten the link, try again"
+COMMAND_SHORT_SHORTED_URL: "Shortened link"
 
 COMMAND_TL_DESCRIPTION: "Information about advertised servers in TLauncher"
 COMMAND_TL_TEXT: "TLauncher Advertised Servers"
