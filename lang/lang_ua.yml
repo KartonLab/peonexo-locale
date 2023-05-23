@@ -32,6 +32,8 @@ ERROR_SPECIFY_SERVER_IP: "Вкажіть IP сервера!"
 ERROR_SPECIFY_PHONE: "Вкажіть номер телефону!"
 ERROR_SPECIFY_TEXT: "Вкажіть текст!"
 ERROR_SPECIFY_PLAYER_NAME: "Вкажіть нікнейм гравця!"
+ERROR_SPECIFY_URL: "Вкажіть URL!"
+ERROR_URL_NOT_FOUND_SPECIFY_URL: "У повідомленні не знайдено URL, приклад: /short [URL]"
 
 ERROR_INCORRECT_IP: "Вказано некоректний IP, перевірте його"
 ERROR_INVALID_INT: "Вказано невірне число!"
@@ -144,6 +146,12 @@ COMMAND_QR_TEXT: "Текст у QR-коді"
 COMMAND_QR_DISABLED_ON_CHAT: "Ця команда вимкнена в цьому чаті, оскільки він створений від імені спільноти"
 
 COMMAND_SAY_DESCRIPTION: "Написати повідомлення від імені бота"
+
+COMMAND_SHORT_DESCRIPTION: "Скоротити посилання різними сервісами"
+COMMAND_SHORT_SELECT_SERVICE: "Виберіть сервіс, через який скоротити посилання"
+COMMAND_SHORT_UNKNOWN_SERVICE: "Невідомий сервіс, доступні: clck/vkcc"
+COMMAND_SHORT_ERROR: "Не вдалося скоротити посилання, спробуйте ще раз"
+COMMAND_SHORT_SHORTED_URL: "Скорочене посилання"
 
 COMMAND_TL_DESCRIPTION: "Інформація про рекламовані сервери в TLauncher"
 COMMAND_TL_TEXT: "Рекламовані сервери TLauncher"
