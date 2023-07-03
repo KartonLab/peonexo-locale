@@ -1,6 +1,6 @@
-# petrolbot-locale
+# peonexo-locale
 
-> Локализация для бота ВКонтакте PetrolBot
+> Локализация для бота ВКонтакте Peonexo
 
 ---
 
