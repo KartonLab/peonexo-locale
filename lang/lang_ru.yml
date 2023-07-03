@@ -45,6 +45,11 @@ ERROR_GET_INFO: "Не удалось получить информацию"
 ERROR_REPLY_USER_MESSAGE: "Перешлите сообщение пользователя!"
 ERROR_SPECIFY_REASON: "Укажите причину!"
 ERROR_MOJANG_UNAVAILABLE: "Не удалось получить информацию (нет лицензии/сервера Mojang недоступны)"
+ERROR_SERVER_ALREADY_ADDED: "Такой сервер уже добавлен!"
+ERROR_ALIAS_SMALL_OR_BIG: "Алиас должен иметь длину 2-16 символов"
+ERROR_ALIAS_OCCUPIED: "Такой алиас уже используется!"
+ERROR_SERVER_NOT_YOUR: "Устанавливать алиас может только тот, кто добавил сервер!"
+ERROR_SERVER_NOT_EXIST: "Данный сервер не добавлен! Добавить: /добавить [хост<:порт>]"
 
 ERROR_OCCURRED: "Произошла ошибка"
 ERROR_OCCURED_WHEN_EXECUTING: "при выполнении команды"
@@ -116,6 +121,16 @@ COMMAND_IPINFO_PTR: "PTR"
 COMMAND_KICK_DESCRIPTION: "Исключение пользователя с беседы"
 COMMAND_KICK_ERROR: "Пользователь является администратором, его нет в беседе, либо у бота нет прав"
 COMMAND_KICK_KICKED: "Кикнут"
+
+COMMAND_MCADD_DESCRIPTION: "Добавление сервера в базу бота"
+COMMAND_MCADD_SERVER_ADDED: "Сервер успешно добавлен в базу данных. Установить алиас: /mcalias"
+
+COMMAND_MCALIAS_DESCRIPTION: "Установка алиаса добавленному серверу"
+COMMAND_MCALIAS_USAGE: "Использование команды: /алиас [хост<:порт>]"
+COMMAND_MCALIAS_SETTED: "Алиас серверу успешно установлен"
+
+COMMAND_MCDELETE_DESCRIPTION: "Удаление сервера из базы бота"
+COMMAND_MCDELETE_SERVER_DELETED: "Сервер успешно удален из базы!"
 
 COMMAND_MCPING_DESCRIPTION: "Информация о сервере Minecraft"
 COMMAND_MCPING_MOJANG_BAN_UNKNOWN: "Неизвестно"
