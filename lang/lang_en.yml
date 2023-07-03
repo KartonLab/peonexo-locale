@@ -44,6 +44,11 @@ ERROR_GET_INFO: "Failed to get information"
 ERROR_REPLY_USER_MESSAGE: "Forward the user's message!"
 ERROR_SPECIFY_REASON: "Specify the reason!"
 ERROR_MOJANG_UNAVAILABLE: "Failed to get information (no license/server Mojang unavailable)"
+ERROR_SERVER_ALREADY_ADDED: "Server has already been added!"
+ERROR_ALIAS_SMALL_OR_BIG: "Alias must be 2-16 characters long"
+ERROR_ALIAS_OCCUPIED: "Such an alias is already in use!"
+ERROR_SERVER_NOT_YOUR: "Only the person who added the server can set the alias!"
+ERROR_SERVER_NOT_EXIST: "Server has not been added! Add: /add [host<:port>]"
 
 ERROR_OCCURRED: "An error occurred"
 ERROR_OCCURED_WHEN_EXECUTING: "when executing the command"
@@ -115,6 +120,16 @@ COMMAND_IPINFO_PTR: "PTR"
 COMMAND_KICK_DESCRIPTION: "Kick a user from the chat"
 COMMAND_KICK_ERROR: "User is an administrator, is not in the chat, or the bot does not have permission"
 COMMAND_KICK_KICKED: "Kicked"
+
+COMMAND_MCADD_DESCRIPTION: "Add server to bot database"
+COMMAND_MCADD_SERVER_ADDED: "Server successfully added to the database. Set alias: /mcalias"
+
+COMMAND_MCALIAS_DESCRIPTION: "Set alias to the added server"
+COMMAND_MCALIAS_USAGE: "Use command: /alias [host<:port>]"
+COMMAND_MCALIAS_SETTED: "Alias to server successfully set"
+
+COMMAND_MCDELETE_DESCRIPTION: "Delete the server from the bot database"
+COMMAND_MCDELETE_SERVER_DELETED: "Server successfully deleted from the database!"
 
 COMMAND_MCPING_DESCRIPTION: "Minecraft server information"
 COMMAND_MCPING_MOJANG_BAN_UNKNOWN: "Unknown"
