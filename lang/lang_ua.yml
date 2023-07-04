@@ -146,6 +146,14 @@ COMMAND_MCPLAYER_DESCRIPTION: "Інформація про гравця Minecraf
 COMMAND_MCPLAYER_DATEREG_UNKNOWN: "<невідомо>"
 COMMAND_MCPLAYER_VIME_INFO: "Vime-інформація"
 
+COMMAND_MCSTATS_DESCRIPTION: "Статистика онлайну сервера Minecraft"
+COMMAND_MCSTATS_DATA_WILL_BE_SOON: "Цей сервер було додано нещодавно, статистика доступна через 10 хвилин після додавання"
+COMMAND_MCSTATS_ONLINE_CURRENT: "Поточний онлайн"
+COMMAND_MCSTATS_ONLINE_24H: "Онлайн добу тому в цей час"
+COMMAND_MCSTATS_ONLINE_AVERAGE_24: "Середній добовий онлайн"
+COMMAND_MCSTATS_ONLINE_MAX_24: "Рекорд онлайну за добу"
+COMMAND_MCSTATS_ONLINE_MAX: "Рекорд онлайну за весь час"
+
 COMMAND_PHONE_DESCRIPTION: "Інформація про номер телефону"
 COMMAND_PHONE_UNAVAILABLE: "Ця функція недоступна, спробуйте через 1 годину"
 COMMAND_PHONE_LOCATION: "Локація"
