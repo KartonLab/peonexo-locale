@@ -101,6 +101,17 @@ COMMAND_EXEC_RESTARTING: "Перезавантаження бота..."
 COMMAND_GENSTR_DESCRIPTION: "Згенерувати пароль"
 COMMAND_GENSTR_INVALID_LENGTH: "Вкажіть правильну довжину: 1-100!"
 
+COMMAND_GRAPH_DESCRIPTION: "Кастомізувати свої графіки"
+COMMAND_GRAPH_USAGE: "Використання:\n\n| /графік фон <видалити> - Встановити/видалити задній фон графіка\n| /графік колір #<hex-код> - Встановити колір графіка"
+COMMAND_GRAPH_BACKGROUND_NOT_STATED: "Ви не прикріпили картинку!\n\n| Вимоги:\n- не менше 256 пікселів по кожній стороні\n- не більше 4096 пікселів по кожній стороні"
+COMMAND_GRAPH_BACKGROUND_INVALID: "Картинка не підходить за вимогами! Вимоги:\n- не менше 256 пікселів по кожній стороні\n- не більше 4096 пікселів по кожній стороні\n- Вимоги:\n- не менше 256 пікселів по кожному боці\n- не більше 4096 пікселів по кожному боці"
+COMMAND_GRAPH_BACKGROUND_SETTED: "Фон графіка успішно встановлено"
+COMMAND_GRAPH_BACKGROUND_DELETED: "Фон графіка успішно видалено"
+COMMAND_GRAPH_BACKGROUND_NOT_SETTED: "Фон графіка не встановлено!"
+COMMAND_GRAPH_COLOR_USAGE: "Використання: /графік колір #<hex-код>\пПриклад: #ffffff"
+COMMAND_GRAPH_COLOR_INVALID: "Неправильний HEX-код!\nПриклад: #ffffff"
+COMMAND_GRAPH_COLOR_SETTED: "Колір графіка успішно змінено"
+
 COMMAND_HASH_DESCRIPTION: "Хешувати пароль/текст"
 
 COMMAND_HELP_DESCRIPTION: "Список команд бота"
