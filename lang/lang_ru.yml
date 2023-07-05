@@ -101,6 +101,17 @@ COMMAND_EXEC_RESTARTING: "Перезагрузка бота..."
 COMMAND_GENSTR_DESCRIPTION: "Сгенерировать пароль"
 COMMAND_GENSTR_INVALID_LENGTH: "Укажите правильную длину: 1-100!"
 
+COMMAND_GRAPH_DESCRIPTION: "Кастомизировать свои графики"
+COMMAND_GRAPH_USAGE: "Использование:\n\n| /график фон <удалить> - Установить/удалить задний фон графика\n| /график цвет #<hex-код> - Установить цвет графика"
+COMMAND_GRAPH_BACKGROUND_NOT_STATED: "Вы не прикрепили картинку!\n\n| Требования:\n- не менее 256 пикселей по каждой стороне\n- не более 4096 пикселей по каждой стороне"
+COMMAND_GRAPH_BACKGROUND_INVALID: "Картинка не подходит по требованиям!\n\n| Требования:\n- не менее 256 пикселей по каждой стороне\n- не более 4096 пикселей по каждой стороне"
+COMMAND_GRAPH_BACKGROUND_SETTED: "Фон графика успешно установлен"
+COMMAND_GRAPH_BACKGROUND_DELETED: "Фон графика успешно удален"
+COMMAND_GRAPH_BACKGROUND_NOT_SETTED: "Фон графика не установлен!"
+COMMAND_GRAPH_COLOR_USAGE: "Использование: /график цвет #<hex-код>\nПример: #ffffff"
+COMMAND_GRAPH_COLOR_INVALID: "Неправильный HEX-код!\nПример: #ffffff"
+COMMAND_GRAPH_COLOR_SETTED: "Цвет графика успешно изменен"
+
 COMMAND_HASH_DESCRIPTION: "Захешировать пароль/текст"
 
 COMMAND_HELP_DESCRIPTION: "Список команд бота"
