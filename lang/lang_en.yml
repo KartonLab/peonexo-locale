@@ -100,6 +100,17 @@ COMMAND_EXEC_RESTARTING: "Bot is restarting..."
 COMMAND_GENSTR_DESCRIPTION: "Generate password"
 COMMAND_GENSTR_INVALID_LENGTH: "Specify the correct length: 1-100!"
 
+COMMAND_GRAPH_DESCRIPTION: "Customize your graphics"
+COMMAND_GRAPH_USAGE: "Usage:\n\n| /graph background <remove> - Set/remove background of the graph\n| /graph color #<hex code> - Set color of the graph"
+COMMAND_GRAPH_BACKGROUND_NOT_STATED: "You have not attached a picture!\n\n| Requirements:\n- at least 256 pixels per side\n- at most 4096 pixels per side"
+COMMAND_GRAPH_BACKGROUND_INVALID: "The picture does not fit the requirements! The requirements are:\n- at least 256 pixels on each side\n- at most 4096 pixels on each side"
+COMMAND_GRAPH_BACKGROUND_SETTED: "The background graphic was successfully set"
+COMMAND_GRAPH_BACKGROUND_DELETED: "The background has been successfully removed"
+COMMAND_GRAPH_BACKGROUND_NOT_SETTED: "The background is not set!"
+COMMAND_GRAPH_COLOR_USAGE: "Usage: /graph color #<hex code>\nExample: #ffffff"
+COMMAND_GRAPH_COLOR_INVALID: "Incorrect HEX code!\nExample: #ffffff"
+COMMAND_GRAPH_COLOR_SETTED: "Chart color successfully changed"
+
 COMMAND_HASH_DESCRIPTION: "Hash password/text"
 
 COMMAND_HELP_DESCRIPTION: "List of bot commands"
