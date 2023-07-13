@@ -132,6 +132,11 @@ COMMAND_KICK_DESCRIPTION: "Kick a user from the chat"
 COMMAND_KICK_ERROR: "User is an administrator, is not in the chat, or the bot does not have permission"
 COMMAND_KICK_KICKED: "Kicked"
 
+COMMAND_LOCALE_DESCRIPTION: "Change bot language"
+COMMAND_LOCALE_SPECIFY_CODE: "Specify language code!"
+COMMAND_LOCALE_CODE_NOT_FOUND: "Language code not found!"
+COMMAND_LOCALE_CHANGED: "Language successfully changed!"
+
 COMMAND_MCADD_DESCRIPTION: "Add server to bot database"
 COMMAND_MCADD_SERVER_ADDED: "Server successfully added to the database. Set alias: /mcalias"
 
