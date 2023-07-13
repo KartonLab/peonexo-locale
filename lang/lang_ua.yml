@@ -133,6 +133,11 @@ COMMAND_KICK_DESCRIPTION: "Виключення користувача з гру
 COMMAND_KICK_ERROR: "Користувач є адміністратором, його немає в чаті або у бота немає прав"
 COMMAND_KICK_KICKED: "Кікнуто"
 
+COMMAND_LOCALE_DESCRIPTION: "Змінити мову бота"
+COMMAND_LOCALE_SPECIFY_CODE: "Вкажіть код мови!"
+COMMAND_LOCALE_CODE_NOT_FOUND: "Код мови не знайдено!"
+COMMAND_LOCALE_CHANGED: "Мову успішно змінено!"
+
 COMMAND_MCADD_DESCRIPTION: "Додавання сервера в базу бота"
 COMMAND_MCADD_SERVER_ADDED: "Сервер успішно додано в базу даних. Встановити аліас: /mcalias"
 
