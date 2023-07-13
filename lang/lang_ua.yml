@@ -108,7 +108,7 @@ COMMAND_GRAPH_BACKGROUND_INVALID: "Картинка не підходить за
 COMMAND_GRAPH_BACKGROUND_SETTED: "Фон графіка успішно встановлено"
 COMMAND_GRAPH_BACKGROUND_DELETED: "Фон графіка успішно видалено"
 COMMAND_GRAPH_BACKGROUND_NOT_SETTED: "Фон графіка не встановлено!"
-COMMAND_GRAPH_COLOR_USAGE: "Використання: /графік колір #<hex-код>\пПриклад: #ffffff"
+COMMAND_GRAPH_COLOR_USAGE: "Використання: /графік колір #<hex-код>\nПриклад: #ffffff"
 COMMAND_GRAPH_COLOR_INVALID: "Неправильний HEX-код!\nПриклад: #ffffff"
 COMMAND_GRAPH_COLOR_SETTED: "Колір графіка успішно змінено"
 
