@@ -64,6 +64,7 @@ REQUEST_CHECK_PLAYER: "Player information"
 REQUEST_CHECK_PHONE: "Phone information"
 
 IP_INFO: "IP information"
+MCPING_INFO: "Server information"
 SERVER_STATS: "Server statistics"
 
 COMMAND_ALIASES_DESCRIPTION: "Command aliases"
