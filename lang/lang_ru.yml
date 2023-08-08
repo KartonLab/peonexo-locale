@@ -22,6 +22,8 @@ ADVERTISEMENT: "Реклама"
 
 COUNTRY_RUSSIA: "Россия"
 
+LOADING_DATA: "Загрузка данных..."
+
 ERROR_SPECIFY_IP: "Укажите IP!"
 ERROR_SPECIFY_IP_OR_DOMAIN: "Укажите IP или домен!"
 ERROR_SPECIFY_IP_PORT: "Укажите IP и порт!"
@@ -62,6 +64,7 @@ REQUEST_CHECK_PLAYER: "Информация об игроке"
 REQUEST_CHECK_PHONE: "Информация об номере"
 
 IP_INFO: "IP-информация"
+SERVER_STATS: "Статистика сервера"
 
 COMMAND_ALIASES_DESCRIPTION: "Алиасы команд"
 
@@ -80,6 +83,7 @@ COMMAND_CONVIP_DESCRIPTION: "Конвертировать IPv4 в десятер
 COMMAND_CONVIP_DECIMAL: "Десятеричный IP"
 
 COMMAND_CURRENCY_DESCRIPTION: "Курс валют относительно рубля (ЦБР)"
+COMMAND_CURRENCY: "Курс валют"
 COMMAND_CURRENCY_USD: "Доллар США"
 COMMAND_CURRENCY_EUR: "Евро"
 COMMAND_CURRENCY_UAH: "Украинская гривна"
@@ -164,6 +168,7 @@ COMMAND_MCPLAYER_VIME_INFO: "Vime-информация"
 
 COMMAND_MCSTATS_DESCRIPTION: "Статистика онлайна сервера Minecraft"
 COMMAND_MCSTATS_DATA_WILL_BE_SOON: "Этот сервер был добавлен недавно, статистика доступна через 10 минут после добавления"
+COMMAND_MCSTATS_CREATING: "Создание графика, ожидайте..."
 COMMAND_MCSTATS_ONLINE_CURRENT: "Текущий онлайн"
 COMMAND_MCSTATS_ONLINE_24H: "Онлайн сутки назад в это время"
 COMMAND_MCSTATS_ONLINE_AVERAGE_24: "Средний суточный онлайн"
