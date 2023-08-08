@@ -22,6 +22,8 @@ ADVERTISEMENT: "Advertisement"
 
 COUNTRY_RUSSIA: "Russia"
 
+LOADING_DATA: "Loading data..."
+
 ERROR_SPECIFY_IP: "Specify IP!"
 ERROR_SPECIFY_IP_OR_DOMAIN: "Specify IP or domain!"
 ERROR_SPECIFY_IP_PORT: "Specify IP and port!"
@@ -61,6 +63,7 @@ REQUEST_CHECK_PLAYER: "Player information"
 REQUEST_CHECK_PHONE: "Phone information"
 
 IP_INFO: "IP information"
+SERVER_STATS: "Server statistics"
 
 COMMAND_ALIASES_DESCRIPTION: "Command aliases"
 
@@ -79,6 +82,7 @@ COMMAND_CONVIP_DESCRIPTION: "Convert IPv4 to decimal"
 COMMAND_CONVIP_DECIMAL: "Decimal IP"
 
 COMMAND_CURRENCY_DESCRIPTION: "Currency exchange rates relative to ruble (CBR)"
+COMMAND_CURRENCY: "Currency exchange rates"
 COMMAND_CURRENCY_USD: "US Dollar"
 COMMAND_CURRENCY_EUR: "Euro"
 COMMAND_CURRENCY_UAH: "Ukrainian Hryvnia"
@@ -163,6 +167,7 @@ COMMAND_MCPLAYER_VIME_INFO: "Vime information"
 
 COMMAND_MCSTATS_DESCRIPTION: "Minecraft server online statistics"
 COMMAND_MCSTATS_DATA_WILL_BE_SOON: "This server was added recently, statistics are available 10 minutes after adding"
+COMMAND_MCSTATS_CREATING: "Creating a graphic, wait..."
 COMMAND_MCSTATS_ONLINE_CURRENT: "Current online"
 COMMAND_MCSTATS_ONLINE_24H: "Online 24 hours ago at this time"
 COMMAND_MCSTATS_ONLINE_AVERAGE_24: "Average daily online"
