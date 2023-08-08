@@ -23,6 +23,7 @@ ADVERTISEMENT: "Реклама"
 COUNTRY_RUSSIA: "Россия"
 
 LOADING_DATA: "Загрузка данных..."
+ADD_SERVER: "Добавить"
 
 ERROR_SPECIFY_IP: "Укажите IP!"
 ERROR_SPECIFY_IP_OR_DOMAIN: "Укажите IP или домен!"
