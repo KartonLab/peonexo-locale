@@ -65,6 +65,7 @@ REQUEST_CHECK_PLAYER: "Информация об игроке"
 REQUEST_CHECK_PHONE: "Информация об номере"
 
 IP_INFO: "IP-информация"
+MCPING_INFO: "Информация о сервере"
 SERVER_STATS: "Статистика сервера"
 
 COMMAND_ALIASES_DESCRIPTION: "Алиасы команд"
