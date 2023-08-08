@@ -186,7 +186,7 @@ COMMAND_REVTEXT_DESCRIPTION: "Reverse text"
 
 COMMAND_QR_DESCRIPTION: "Create a QR code with any text"
 COMMAND_QR_TEXT: "Text in QR code"
-COMMAND_QR_DISABLED_ON_CHAT: "This command is disabled in this chat, as it is created on behalf of the community"
+COMMAND_QR_TOO_BIG: "Maximum text length: 1250 characters"
 
 COMMAND_SAY_DESCRIPTION: "Write a message on behalf of the bot"
 
