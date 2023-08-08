@@ -168,7 +168,7 @@ COMMAND_MCPLAYER_VIME_INFO: "Vime-информация"
 
 COMMAND_MCSTATS_DESCRIPTION: "Статистика онлайна сервера Minecraft"
 COMMAND_MCSTATS_DATA_WILL_BE_SOON: "Этот сервер был добавлен недавно, статистика доступна через 10 минут после добавления"
-COMMAND_MCSTATS_CREATING: "Создание графика, ожидайте..."
+COMMAND_MCSTATS_CREATING: "Создание графика %s, ожидайте..."
 COMMAND_MCSTATS_ONLINE_CURRENT: "Текущий онлайн"
 COMMAND_MCSTATS_ONLINE_24H: "Онлайн сутки назад в это время"
 COMMAND_MCSTATS_ONLINE_AVERAGE_24: "Средний суточный онлайн"
