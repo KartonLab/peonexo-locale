@@ -80,6 +80,7 @@ COMMAND_BOT_RESTART: "Перезапустити"
 COMMAND_BOT_RAM_MEASURE: "мб."
 COMMAND_BOT_CORE: "Ядро"
 COMMAND_BOT_MODULES: "модулі"
+COMMAND_BOT_VERSION: "Версiя"
 
 COMMAND_CONVIP_DESCRIPTION: "Конвертувати IPv4 у десятковий формат"
 COMMAND_CONVIP_DECIMAL: "Десятковий IP"
