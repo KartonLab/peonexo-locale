@@ -204,7 +204,7 @@ COMMAND_SHORT_SHORTED_URL: "Сокращенная ссылка"
 COMMAND_TL_DESCRIPTION: "Информация о рекламируемых серверах в TLauncher"
 COMMAND_TL_TEXT: "Рекламируемые сервера TLauncher"
 
-COMMAND_USERINFO_INFO: "Информация о пользователе (%d):\n| Регистрация: %s\n| Заблокирован: %s\n| Цвет графика: %s\n| Фон графика: %s\n\n| Добавленные серверы: %s"
+COMMAND_USERINFO_INFO: "Информация о пользователе (%d):\n\n| Регистрация: %s\n| Заблокирован: %s\n| Цвет графика: %s\n| Фон графика: %s\n\n| Добавленные серверы: %s"
 
 COMMAND_VIME_DESCRIPTION: "Информация об игроке VimeWorld"
 COMMAND_VIME_NOT_REGISTRED: "Не удалось получить информацию (игрок не зарегистрирован)"
