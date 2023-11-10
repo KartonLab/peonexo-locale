@@ -52,7 +52,7 @@ ERROR_SERVER_ALREADY_ADDED: "Такой сервер уже добавлен!"
 ERROR_ALIAS_SMALL_OR_BIG: "Алиас должен иметь длину 2-16 символов"
 ERROR_ALIAS_OCCUPIED: "Такой алиас уже используется!"
 ERROR_SERVER_NOT_YOUR: "Устанавливать алиас может только тот, кто добавил сервер!"
-ERROR_SERVER_NOT_EXIST: "Данный сервер не добавлен! Добавить: /добавить [хост<:порт>]"
+ERROR_SERVER_NOT_EXIST: "Данный сервер не добавлен! Добавить: /mcadd [хост<:порт>]"
 ERROR_USER_NOT_EXIST: "Данный пользователь не найден в базе данных!"
 
 ERROR_OCCURRED: "Произошла ошибка"
@@ -110,13 +110,13 @@ COMMAND_GENSTR_DESCRIPTION: "Сгенерировать пароль"
 COMMAND_GENSTR_INVALID_LENGTH: "Укажите правильную длину: 1-100!"
 
 COMMAND_GRAPH_DESCRIPTION: "Кастомизировать свои графики"
-COMMAND_GRAPH_USAGE: "Использование:\n\n| /график фон <удалить> - Установить/удалить задний фон графика\n| /график цвет #<hex-код> - Установить цвет графика"
+COMMAND_GRAPH_USAGE: "Использование:\n\n| /mcgraph background <удалить> - Установить/удалить задний фон графика\n| /mcgraph color #<hex-код> - Установить цвет графика"
 COMMAND_GRAPH_BACKGROUND_NOT_STATED: "Вы не прикрепили картинку!\n\n| Требования:\n- не менее 256 пикселей по каждой стороне\n- не более 4096 пикселей по каждой стороне"
 COMMAND_GRAPH_BACKGROUND_INVALID: "Картинка не подходит по требованиям!\n\n| Требования:\n- не менее 256 пикселей по каждой стороне\n- не более 4096 пикселей по каждой стороне"
 COMMAND_GRAPH_BACKGROUND_SETTED: "Фон графика успешно установлен"
 COMMAND_GRAPH_BACKGROUND_DELETED: "Фон графика успешно удален"
 COMMAND_GRAPH_BACKGROUND_NOT_SETTED: "Фон графика не установлен!"
-COMMAND_GRAPH_COLOR_USAGE: "Использование: /график цвет #<hex-код>\nПример: #ffffff"
+COMMAND_GRAPH_COLOR_USAGE: "Использование: /mcgraph color #<hex-код>\nПример: #ffffff"
 COMMAND_GRAPH_COLOR_INVALID: "Неправильный HEX-код!\nПример: #ffffff"
 COMMAND_GRAPH_COLOR_SETTED: "Цвет графика успешно изменен"
 
@@ -150,7 +150,7 @@ COMMAND_MCADD_DESCRIPTION: "Добавление сервера в базу бо
 COMMAND_MCADD_SERVER_ADDED: "Сервер успешно добавлен в базу данных. Установить алиас: /mcalias"
 
 COMMAND_MCALIAS_DESCRIPTION: "Установка алиаса добавленному серверу"
-COMMAND_MCALIAS_USAGE: "Использование команды: /алиас [хост<:порт>]"
+COMMAND_MCALIAS_USAGE: "Использование команды: /mcalias [хост<:порт>]"
 COMMAND_MCALIAS_SETTED: "Алиас серверу успешно установлен"
 
 COMMAND_MCDELETE_DESCRIPTION: "Удаление сервера из базы бота"
@@ -204,7 +204,7 @@ COMMAND_SHORT_SHORTED_URL: "Сокращенная ссылка"
 COMMAND_TL_DESCRIPTION: "Информация о рекламируемых серверах в TLauncher"
 COMMAND_TL_TEXT: "Рекламируемые сервера TLauncher"
 
-COMMAND_USERINFO_INFO: "Информация о пользователе (%d):\n| Регистрация: %s\n| Цвет графика: %s\n\n| Добавленные серверы: %s"
+COMMAND_USERINFO_INFO: "Информация о пользователе (%d):\n| Регистрация: %s\n| Заблокирован: %s\n| Цвет графика: %s\n| Фон графика: %s\n\n| Добавленные серверы: %s"
 
 COMMAND_VIME_DESCRIPTION: "Информация об игроке VimeWorld"
 COMMAND_VIME_NOT_REGISTRED: "Не удалось получить информацию (игрок не зарегистрирован)"
