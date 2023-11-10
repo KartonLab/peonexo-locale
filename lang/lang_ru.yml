@@ -110,7 +110,7 @@ COMMAND_GENSTR_DESCRIPTION: "Сгенерировать пароль"
 COMMAND_GENSTR_INVALID_LENGTH: "Укажите правильную длину: 1-100!"
 
 COMMAND_GRAPH_DESCRIPTION: "Кастомизировать свои графики"
-COMMAND_GRAPH_USAGE: "Использование:\n\n| /mcgraph background <удалить> - Установить/удалить задний фон графика\n| /mcgraph color #<hex-код> - Установить цвет графика"
+COMMAND_GRAPH_USAGE: "Использование:\n\n| /mcgraph background <clear> - Установить/удалить задний фон графика\n| /mcgraph color #<hex-код> - Установить цвет графика"
 COMMAND_GRAPH_BACKGROUND_NOT_STATED: "Вы не прикрепили картинку!\n\n| Требования:\n- не менее 256 пикселей по каждой стороне\n- не более 4096 пикселей по каждой стороне"
 COMMAND_GRAPH_BACKGROUND_INVALID: "Картинка не подходит по требованиям!\n\n| Требования:\n- не менее 256 пикселей по каждой стороне\n- не более 4096 пикселей по каждой стороне"
 COMMAND_GRAPH_BACKGROUND_SETTED: "Фон графика успешно установлен"
