@@ -53,6 +53,7 @@ ERROR_ALIAS_SMALL_OR_BIG: "Алиас должен иметь длину 2-16 с
 ERROR_ALIAS_OCCUPIED: "Такой алиас уже используется!"
 ERROR_SERVER_NOT_YOUR: "Устанавливать алиас может только тот, кто добавил сервер!"
 ERROR_SERVER_NOT_EXIST: "Данный сервер не добавлен! Добавить: /добавить [хост<:порт>]"
+ERROR_USER_NOT_EXIST: "Данный пользователь не найден в базе данных!"
 
 ERROR_OCCURRED: "Произошла ошибка"
 ERROR_OCCURED_WHEN_EXECUTING: "при выполнении команды"
@@ -202,6 +203,9 @@ COMMAND_SHORT_SHORTED_URL: "Сокращенная ссылка"
 
 COMMAND_TL_DESCRIPTION: "Информация о рекламируемых серверах в TLauncher"
 COMMAND_TL_TEXT: "Рекламируемые сервера TLauncher"
+
+COMMAND_USERINFO_INFO: "Информация о пользователе (%d):\n| Регистрация: %s\n| Цвет графика: %s\n\n| Добавленные серверы: %s"
+COMMAND_USERINFO_INFO:
 
 COMMAND_VIME_DESCRIPTION: "Информация об игроке VimeWorld"
 COMMAND_VIME_NOT_REGISTRED: "Не удалось получить информацию (игрок не зарегистрирован)"
