@@ -171,7 +171,7 @@ COMMAND_MCPLAYER_DATEREG_UNKNOWN: "<неизвестно>"
 COMMAND_MCPLAYER_VIME_INFO: "Vime-информация"
 
 COMMAND_MCSA_USAGE: "Использование:\n\n| /mcsa info <ip-адрес> - информация о сервере\n| /mcsa alias <ip-адрес> <алиас> - установить алиас\n/mcsa owner <ip-адрес> <упоминание/ответ на сообщение> - установить нового владельца"
-COMMAND_MCSA_SERVER_INFO: "Информация о сервере (%s)\n\n| ID: %d\n| Добавлен: %s\n| Алиас: «%s»\n| Владелец: %d"
+COMMAND_MCSA_SERVER_INFO: "Информация о сервере (%s)\n\n| ID: %d\n| Добавлен: %s\n| Алиас: «%s»\n| Владелец: %s"
 COMMAND_MCSA_ALIAS_CHANGED: "Новый алиас успешно установлен!"
 COMMAND_MCSA_OWNER_CHANGED: "Новый владелец успешно установлен!"
 
