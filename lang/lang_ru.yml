@@ -64,6 +64,7 @@ REQUEST_RESULT: "Результат запроса"
 REQUEST_CHECK_RESULT: "Результат проверки"
 REQUEST_CHECK_PLAYER: "Информация об игроке"
 REQUEST_CHECK_PHONE: "Информация об номере"
+REQUEST_CHECK_OWNER: "Информация о владельце"
 
 IP_INFO: "IP-информация"
 MCPING_INFO: "Информация о сервере"
