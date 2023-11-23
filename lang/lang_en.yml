@@ -170,6 +170,7 @@ COMMAND_MCPLAYER_VIME_INFO: "Vime information"
 
 COMMAND_MCSTATS_DESCRIPTION: "Minecraft server online statistics"
 COMMAND_MCSTATS_DATA_WILL_BE_SOON: "This server was added recently, statistics are available 10 minutes after adding"
+COMMAND_MCSTATS_DATA_OLD: "No data for this server in 24 hours, it may be unavailable or there was an error retrieving the data"
 COMMAND_MCSTATS_CREATING: "Creating a graph, wait..."
 COMMAND_MCSTATS_ONLINE_CURRENT: "Current online"
 COMMAND_MCSTATS_ONLINE_24H: "Online 24 hours ago at this time"
