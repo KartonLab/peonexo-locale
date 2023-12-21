@@ -168,6 +168,7 @@ COMMAND_MCPING_CLOSED: "Сервер попередньо закрив з'єдн
 COMMAND_MCPING_INVALID_PACKET: "Сервер повернув некоректний пакет"
 COMMAND_MCPING_INVALID_VALUE: "Сервер повернув некоректну (порожню) відповідь"
 COMMAND_MCPING_INVALID_JSON: "Сервер повернув некоректний JSON"
+COMMAND_MCPING_OFFLINE: "Сервер офлайн"
 
 COMMAND_MCPLAYER_DESCRIPTION: "Інформація про гравця Minecraft"
 COMMAND_MCPLAYER_DATEREG_UNKNOWN: "<невідомо>"
