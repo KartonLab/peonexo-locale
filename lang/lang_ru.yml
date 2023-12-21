@@ -171,6 +171,7 @@ COMMAND_MCPING_INVALID_PACKET: "Сервер вернул некорректны
 COMMAND_MCPING_INVALID_VALUE: "Сервер вернул некорректный (пустой) ответ"
 COMMAND_MCPING_INVALID_JSON: "Сервер вернул некорректный JSON"
 COMMAND_MCPING_OFFLINE: "Сервер оффлайн"
+COMMAND_MCPING_TIMEDOUT: "Время ожидания ответа вышло"
 
 COMMAND_MCPLAYER_DESCRIPTION: "Информация об игроке Minecraft"
 COMMAND_MCPLAYER_DATEREG_UNKNOWN: "<неизвестно>"
