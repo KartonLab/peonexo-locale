@@ -168,6 +168,7 @@ COMMAND_MCPING_INVALID_PACKET: "Server returned an invalid packet"
 COMMAND_MCPING_INVALID_VALUE: "The server returned an invalid (empty) response"
 COMMAND_MCPING_INVALID_JSON: "Server returned an invalid JSON"
 COMMAND_MCPING_OFFLINE: "Server offline"
+COMMAND_MCPING_TIMEDOUT: "Timed out"
 
 COMMAND_MCPLAYER_DESCRIPTION: "Minecraft player information"
 COMMAND_MCPLAYER_DATEREG_UNKNOWN: "<unknown>"
