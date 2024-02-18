@@ -127,7 +127,7 @@ COMMAND_HASH_MESSAGE:
   - "| SHA1: %sha1%"
   - "| SHA256: %sha256%"
   - "| SHA512: %sha512%"
-  - "| MD5: %md5"
+  - "| MD5: %md5%"
 
 COMMAND_HELP_DESCRIPTION: "Список команд бота"
 COMMAND_HELP_MESSAGE:
