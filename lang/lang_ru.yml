@@ -90,6 +90,7 @@ COMMAND_BOT_MESSAGE:
   - "| Всего ОЗУ: %totalRam% мб."
   - "| Макс. ОЗУ: %maxRam% мб."
   - "| Используется ОЗУ: %usedRam% мб."
+COMMAND_BOT_RESTART: "Перезагрузить"
 
 COMMAND_CONVIP_DESCRIPTION: "Конвертировать IPv4 в десятеричный"
 COMMAND_CONVIP_DECIMAL_CONVERTED: "[*] Десятичный IP: %decimalIP%"
