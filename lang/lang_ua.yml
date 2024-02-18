@@ -146,10 +146,10 @@ COMMAND_LOCALE_CODE_NOT_FOUND: "Код мови не знайдено!"
 COMMAND_LOCALE_CHANGED: "Мову успішно змінено!"
 
 COMMAND_MCADD_DESCRIPTION: "Додавання сервера в базу бота"
-COMMAND_MCADD_SERVER_ADDED: "Сервер успішно додано в базу даних. Встановити аліас: /mcalias"
+COMMAND_MCADD_SERVER_ADDED: "Сервер успішно додано в базу даних\n| Встановити аліас: /mcalias"
 
 COMMAND_MCALIAS_DESCRIPTION: "Встановлення аліаса доданого сервера"
-COMMAND_MCALIAS_USAGE: "Використання команди: /аліас [хост<:порт>]"
+COMMAND_MCALIAS_USAGE: "Використання команди: /аліас [хост<:порт>] [алiас]"
 COMMAND_MCALIAS_SETTED: "Аліас серверу успішно встановлено"
 
 COMMAND_MCDELETE_DESCRIPTION: "Видалення сервера з бази бота"
