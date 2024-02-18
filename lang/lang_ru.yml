@@ -114,7 +114,7 @@ COMMAND_DECTOIP_MESSAGE: "[*] IPv4: %ipv4%"
 
 COMMAND_EXEC_DESCRIPTION: "Выполнить Linux-команду"
 COMMAND_EXEC_CENSORED: "[скрыто]"
-COMMAND_EXEC_RESTARTING: "Перезагрузка бота..."
+COMMAND_EXEC_RESTARTING: "[*] Перезагрузка бота..."
 
 COMMAND_GENSTR_DESCRIPTION: "Сгенерировать пароль"
 COMMAND_GENSTR_INVALID_LENGTH: "[!] Укажите правильную длину: 1-100!"
