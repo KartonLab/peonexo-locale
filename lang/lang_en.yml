@@ -145,10 +145,10 @@ COMMAND_LOCALE_CODE_NOT_FOUND: "Language code not found!"
 COMMAND_LOCALE_CHANGED: "Language successfully changed!"
 
 COMMAND_MCADD_DESCRIPTION: "Add server to bot database"
-COMMAND_MCADD_SERVER_ADDED: "Server successfully added to the database. Set alias: /mcalias"
+COMMAND_MCADD_SERVER_ADDED: "Server successfully added to the database\nSet alias: /mcalias"
 
 COMMAND_MCALIAS_DESCRIPTION: "Set alias to the added server"
-COMMAND_MCALIAS_USAGE: "Use command: /alias [host<:port>]"
+COMMAND_MCALIAS_USAGE: "Use command: /alias [host<:port>] [alias]"
 COMMAND_MCALIAS_SETTED: "Alias to server successfully set"
 
 COMMAND_MCDELETE_DESCRIPTION: "Delete the server from the bot database"
