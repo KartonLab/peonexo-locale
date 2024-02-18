@@ -335,3 +335,6 @@ COMMAND_VIME_MCPLAYER_INFO: "Minecraft-информация"
 
 COMMAND_VKID_DESCRIPTION: "Получение ID страницы ВКонтакте"
 COMMAND_VKID_ID: "[*] ID пользователя: %id%"
+COMMAND_VKID_YOUR_ID:
+  - "[*] Ваш VK ID: %id%"
+  - "| Подсказка: перешлите сообщение пользователя, чтобы узнать его ID"
