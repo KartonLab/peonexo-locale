@@ -4,6 +4,12 @@ NO_BAN: "Нет"
 OPENED: "Открыто"
 CLOSED: "Закрыто"
 
+BLOCKED: "Заблокирован"
+UNBLOCKED: "Разблокирован"
+
+BOOSTING: "Накручивает"
+NOT_BOOSTING: "Не накручивает"
+
 REASON: "Причина"
 ID: "ID"
 
@@ -52,6 +58,7 @@ ERROR_ALIAS_SMALL_OR_BIG: "[!] Алиас должен иметь длину 2-1
 ERROR_ALIAS_OCCUPIED: "[!] Такой алиас уже используется!"
 ERROR_SERVER_NOT_YOUR: "[!] Устанавливать алиас может только тот, кто добавил сервер!"
 ERROR_SERVER_NOT_EXIST: "[!] Данный сервер не добавлен! Добавить: /mcadd [хост<:порт>]"
+ERROR_SERVER_IN_BLACKLIST: "[!] Данный сервер находится в ЧС, с ним нельзя взаимодействовать"
 ERROR_USER_NOT_EXIST: "[!] Данный пользователь не найден в базе данных!"
 
 ERROR_OCCURRED: "[!] Произошла ошибка %id% при выполнении команды"
@@ -253,6 +260,20 @@ COMMAND_MCSA_SERVER_INFO:
   - "| Владелец: %owner%"
 COMMAND_MCSA_ALIAS_CHANGED: "[*] Новый алиас успешно установлен!"
 COMMAND_MCSA_OWNER_CHANGED: "[*] Владелец сервера изменен! Новый владелец: %id%"
+COMMAND_MCSA_BLACKLIST_STATUS_CHANGED:
+  - "[*] Статус сервера в ЧС успешно изменен!"
+  - "| Новый статус: %status%"
+COMMAND_MCSA_BLACKLIST_SERVERS:
+  - "[*] Список серверов, находящихся в ЧС:"
+  - ""
+  - "%blacklistServers%"
+COMMAND_MCSA_BOOSTING_STATUS_CHANGED:
+  - "[*] Статус накрутки онлайна для сервера изменен!"
+  - "| Новый статус: %status%"
+COMMAND_MCSA_BOOSTING_SERVERS:
+  - "[*] Список серверов, имеющие статус накрутки:"
+  - ""
+  - "%boostingServers%"
 
 COMMAND_MCSTATS_DESCRIPTION: "Статистика онлайна сервера Minecraft"
 COMMAND_MCSTATS_DATA_WILL_BE_SOON: "Этот сервер был добавлен недавно, статистика доступна через 10 минут после добавления"
@@ -265,7 +286,7 @@ COMMAND_MCSTATS_MESSAGE:
   - "| Средний суточный онлайн: %avgOnline%"
   - "| Рекорд онлайна за сутки: %max24HOnline%"
   - "| Рекорд онлайна за все время: %maxOnline%"
-COMMAND_MCSTATS_CREATING: "Создание графика, ожидайте..."
+COMMAND_MCSTATS_CREATING: "[*] Создание графика, ожидайте..."
 
 COMMAND_PHONE_DESCRIPTION: "Информация о номере телефона"
 COMMAND_PHONE_UNAVAILABLE: "[!] Данная функция недоступна, попробуйте через 1 час"
