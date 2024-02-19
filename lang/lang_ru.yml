@@ -294,7 +294,7 @@ COMMAND_SHORT_ERROR: "[!] Не удалось сократить ссылку, �
 COMMAND_SHORT_SHORTED_URL: "[*] Сокращенная ссылка: %link%"
 
 COMMAND_TL_DESCRIPTION: "Информация о рекламируемых серверах в TLauncher"
-COMMAND_TL_MESSAGE:
+COMMAND_TL_TEXT:
   - "[*] Рекламируемые сервера TLauncher:"
   - ""
   - "%servers%"
