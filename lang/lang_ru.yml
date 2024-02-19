@@ -274,6 +274,15 @@ COMMAND_MCSA_BOOSTING_SERVERS:
   - "[*] Список серверов, имеющие статус накрутки:"
   - ""
   - "%boostingServers%"
+COMMAND_MCSA_DUPLICATE_FOR_SERVER_ADDED:
+  - "[*] Дубликат сервера %toIP% добавлен!"
+  - "| Теперь %fromIP% является дубликатом %toIP%"
+COMMAND_MCSA_DUPLICATE_FOR_SERVER_DELETED:
+  - "[*] Дубликат сервера %toIP% удален!"
+  - "| Теперь %fromIP% не является дубликатом %toIP%"
+COMMAND_MCSA_DUPLICATE_SERVER_ALREADY_USED:
+  - "[*] Сервер %fromIP% уже является дубликатом %toIP%"
+  - "| Для начала удалите дубликат для %toIP%!"
 
 COMMAND_MCSTATS_DESCRIPTION: "Статистика онлайна сервера Minecraft"
 COMMAND_MCSTATS_DATA_WILL_BE_SOON: "Этот сервер был добавлен недавно, статистика доступна через 10 минут после добавления"
