@@ -310,7 +310,7 @@ COMMAND_MCSTATS_MESSAGE:
   - "| Средний суточный онлайн: %avgOnline%"
   - "| Рекорд онлайна за сутки: %max24HOnline%"
   - "| Рекорд онлайна за все время: %maxOnline%"
-COMMAND_MCSTATS_CREATING: "[*] Создание графика, ожидайте..."
+COMMAND_MCSTATS_CREATING: "Создание графика, ожидайте..."
 
 COMMAND_PHONE_DESCRIPTION: "Информация о номере телефона"
 COMMAND_PHONE_UNAVAILABLE: "[!] Данная функция недоступна, попробуйте через 1 час"
