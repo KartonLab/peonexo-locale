@@ -270,7 +270,7 @@ COMMAND_MCSA_SERVER_INFO:
   - ""
   - "| ID: %id%"
   - "| Доданий: %timeAdded%"
-  - "| Аліас: "%alias%""
+  - "| Аліас: %alias%"
   - "| Власник: %owner%"
 COMMAND_MCSA_ALIAS_CHANGED: "[*] Новий аліас успішно встановлено!"
 COMMAND_MCSA_OWNER_CHANGED: "[*] Власника сервера змінено! Новий власник: %id%"
