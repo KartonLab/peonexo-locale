@@ -100,9 +100,13 @@ COMMAND_BOT_MESSAGE:
   - "| Макс. ОЗУ: %maxRam% мб."
   - "| Используется ОЗУ: %usedRam% мб."
   - ""
+  - "| Активные модули (%enabledModulesAmount%):"
+  - "%enabledModules%"
+  - ""
   - "| Локалей: %localesAmount%"
   - "| Загружено ключей: %loadedKeysAmount%"
   - "| Загружено строк: %loadedStringsAmount%"
+COMMAND_BOT_ENABLED_MODULE_FORMAT: "%moduleName% (v%moduleVersion%)"
 COMMAND_BOT_RESTART: "Перезагрузить"
 
 COMMAND_CONVIP_DESCRIPTION: "Конвертировать IPv4 в десятеричный"
