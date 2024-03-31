@@ -282,6 +282,7 @@ COMMAND_MCSA_SERVER_INFO:
   - "| Владелец: %owner%"
 COMMAND_MCSA_ALIAS_CHANGED: "[*] Новый алиас успешно установлен!"
 COMMAND_MCSA_OWNER_CHANGED: "[*] Владелец сервера изменен! Новый владелец: %id%"
+COMMAND_MCSA_OWNER_CHANGED: "[*] Сервер %ip% удален из БД!"
 COMMAND_MCSA_BLACKLIST_STATUS_CHANGED:
   - "[*] Статус сервера в ЧС успешно изменен!"
   - "| Новый статус: %status%"
