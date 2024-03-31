@@ -114,7 +114,7 @@ COMMAND_BOT_SYSTEM_MESSAGE:
   - ""
   - "| Процессор: %cpuName%"
   - "| Ядер: %cpuCores%"
-  - "| Использование процессора: %cpuUsedPercentage"
+  - "| Использование процессора: %cpuUsedPercentage%"
   - ""
   - "| Всего ОЗУ: %totalRam% мб."
   - "| Макс. ОЗУ: %maxRam% мб."
