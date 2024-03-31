@@ -113,7 +113,7 @@ COMMAND_BOT_SYSTEM_MESSAGE:
   - "| Аптайм процесса: %uptime%"
   - ""
   - "| Процессор: %cpuName%"
-  - "| Ядер: %cpuCores%"
+  - "| Ядер процессора: %cpuCores%"
   - "| Использование процессора: %cpuUsedPercentage%"
   - ""
   - "| Всего ОЗУ: %totalRam% мб."
