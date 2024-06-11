@@ -368,11 +368,13 @@ COMMAND_PHONE_MESSAGE:
 COMMAND_PORT_DESCRIPTION: "Проверка порта по протоколу TCP"
 COMMAND_PORT_MESSAGE: "[*] Результат проверки %hostPort%: %status%"
 
-COMMAND_REVTEXT_DESCRIPTION: "Развернуть текст задом наперед"
-
 COMMAND_QR_DESCRIPTION: "Создать QR-код с любым текстом"
 COMMAND_QR_TEXT: "[*] Текст в QR-коде"
 COMMAND_QR_TOO_BIG: "[!] Максимальная длина текста: 1250 символов"
+
+COMMAND_QUOTE_DESCRIPTION: "Создать цитату из пересланного сообщения"
+
+COMMAND_REVTEXT_DESCRIPTION: "Развернуть текст задом наперед"
 
 COMMAND_SAY_DESCRIPTION: "Написать сообщение от имени бота"
 
