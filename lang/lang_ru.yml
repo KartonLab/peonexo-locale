@@ -373,6 +373,7 @@ COMMAND_QR_TEXT: "[*] Текст в QR-коде"
 COMMAND_QR_TOO_BIG: "[!] Максимальная длина текста: 1250 символов"
 
 COMMAND_QUOTE_DESCRIPTION: "Создать цитату из пересланного сообщения"
+COMMAND_QUOTE_ONLY_FOR_USERS: "[!] Создание цитаты доступно только из сообщения пользователя"
 
 COMMAND_REVTEXT_DESCRIPTION: "Развернуть текст задом наперед"
 
