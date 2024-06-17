@@ -361,9 +361,9 @@ COMMAND_MCSTATS_MESSAGE:
   - "[*] %ip%"
   - "%boosting%"
   - "| Текущий онлайн: %currentOnline%"
-  - "| Онлайн сутки назад в это время: %online24HAgo%"
-  - "| Средний суточный онлайн: %avgOnline%"
-  - "| Рекорд онлайна за сутки: %max24HOnline%"
+  - "| Онлайн %period_1% назад в это время: %onlinePeriodAgo%"
+  - "| Средний %period_2% онлайн: %avgOnline%"
+  - "| Рекорд онлайна за %period_1%: %maxPeriodOnline%"
   - "| Рекорд онлайна за все время: %maxOnline%"
 COMMAND_MCSTATS_CREATING: "Создание графика, ожидайте..."
 
