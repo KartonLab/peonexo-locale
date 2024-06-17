@@ -317,6 +317,8 @@ COMMAND_MCSA_USAGE:
   - ""
   - "| /mcsa duplicate <ip-адрес> <ориг. сервер> - установить сервер дубликатом другого"
   - "| /mcsa duplicate <ip-адрес> <remove> - исключить сервер из дубликатов"
+  - ""
+  - "| /mcsa clear_above <ip-адрес> <онлайн> <период/all> - очистить определенный онлайн за указанный период"
 COMMAND_MCSA_SERVER_INFO:
   - "[*] Информация о сервере (%ip%)"
   - ""
@@ -353,6 +355,9 @@ COMMAND_MCSA_DUPLICATE_SERVER_ALREADY_USED:
 COMMAND_MCSA_DUPLICATE_SERVER_NOT_DUPLICATING:
   - "[*] Сервер %fromIP% не является дубликатом какого-либо сервера!"
   - "| Для начала установите сервер как дубликат!"
+COMMAND_MCSA_CLEAR_ABOVE_CLEARED:
+  - "[*] Очистка пингов для %fromIP%:"
+  - "| Очищено %count% пингов выше %online% онлайна"
 
 COMMAND_MCSTATS_DESCRIPTION: "Статистика онлайна сервера Minecraft"
 COMMAND_MCSTATS_DATA_WILL_BE_SOON: "Этот сервер был добавлен недавно, статистика доступна через 10 минут после добавления"
