@@ -34,6 +34,40 @@ EMPTY_DATA: "Нет данных"
 
 ADD_SERVER: "Добавить"
 
+TIME_SECOND:
+- секунд
+- у
+- ы
+- ''
+
+TIME_MINUTE:
+- минут
+- у
+- ы
+- ''
+
+TIME_DAY:
+- д
+- ень
+- ня
+- ней
+
+TIME_MONTH:
+- месяц
+- ''
+- а
+- ев
+
+MCSTATS_PERIOD_1:
+- сутки
+- неделю
+- месяц
+
+MCSTATS_PERIOD_2:
+- суточный
+- недельный
+- месячный
+
 ERROR_SPECIFY_IP: "[!] Укажите IP!"
 ERROR_SPECIFY_IP_OR_DOMAIN: "[!] Укажите IP или домен!"
 ERROR_SPECIFY_IP_PORT: "[!] Укажите IP и порт!"
