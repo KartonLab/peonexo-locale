@@ -275,7 +275,7 @@ COMMAND_MCPING_MESSAGE:
   - "[*] Результат проверки %ip%:"
   - ""
   - "| Пинг: %ping% мс."
-  - "| Ядро: %core%"
+  - "| Сервер: %core%"
   - "| Протокол: %protocol%"
   - "| Онлайн: %online%/%onlineMax%"
   - "| Бан Mojang: %mojangBan%"
