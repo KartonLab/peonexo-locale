@@ -475,8 +475,12 @@ COMMAND_VIME_RANK_CHIEF: "Главный модератор"
 COMMAND_VIME_RANK_ADMIN: "Главный админ"
 COMMAND_VIME_MCPLAYER_INFO: "Minecraft-информация"
 
-COMMAND_VKID_DESCRIPTION: "Получение ID страницы ВКонтакте"
+COMMAND_VKID_DESCRIPTION: "Получение ID аккаунта"
 COMMAND_VKID_ID: "[*] ID пользователя: %id%"
 COMMAND_VKID_YOUR_ID:
   - "[*] Ваш VK ID: %id%"
   - "| Подсказка: перешлите сообщение пользователя, чтобы узнать его ID"
+COMMAND_VKID_ONLY_ON_VK: "[!] Получение ID пользователей доступно только в VK"
+COMMAND_VKID_YOUR_ACCOUNT:
+  - "[*] Ваш Telegram ID: %tgId%"
+  - "| Привязанный VK: %linkedVK%"
