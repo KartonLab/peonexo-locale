@@ -235,6 +235,8 @@ COMMAND_LINK_LINKED_ALREADY_2: "[!] Невозможно создать код, 
 COMMAND_LINK_LINK:
   - "[*] Для привязки введите команду ниже на другой платформе:"
   - "| %command%"
+  - ""
+  - "| Telegram-бот: t.me/peonexo_bot"
 
 COMMAND_LOCALE_DESCRIPTION: "Сменить язык бота"
 COMMAND_LOCALE_SPECIFY_CODE: "[!] Укажите код языка!"
