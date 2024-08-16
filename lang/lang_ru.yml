@@ -223,6 +223,19 @@ COMMAND_KICK_KICKED_MESSAGE:
   - "[*] Пользователь %id%: кикнут ✅"
   - "| Причина: %reason%"
 
+COMMAND_LINK_DESCRIPTION: "Привязать аккаунт к платформе"
+COMMAND_LINK_SPECIFY_CODE: "[!] Укажите код привязки!"
+COMMAND_LINK_CODE_NOT_FOUND: "[!] Код привязки не найден!"
+COMMAND_LINK_LINKED: 
+  - "[*] Аккаунт успешно привязан!"
+  - "| VK: %vkId%"
+  - "| Telegram: %tgId%"
+COMMAND_LINK_LINKED_ALREADY: "[!] Аккаунт уже привязан к данной платформе!"
+COMMAND_LINK_LINKED_ALREADY_2: "[!] Невозможно создать код, поскольку аккаунт уже привязан"
+COMMAND_LINK_LINK:
+  - "[*] Для привязки введите команду ниже на другой платформе:"
+  - "| %command%"
+
 COMMAND_LOCALE_DESCRIPTION: "Сменить язык бота"
 COMMAND_LOCALE_SPECIFY_CODE: "[!] Укажите код языка!"
 COMMAND_LOCALE_CODE_NOT_FOUND: "[!] Код языка не найден!"
